@@ -1,0 +1,8 @@
+# The Best Chicken Kabab Corner
+# All search engines and crawlers may index the whole site.
+
+User-agent: *
+Allow: /
+
+# Replace https://www.example.com with the real website address before publishing.
+Sitemap: https://www.example.com/sitemap.xml

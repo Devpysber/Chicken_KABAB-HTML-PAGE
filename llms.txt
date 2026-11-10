@@ -1,0 +1,54 @@
+# The Best Chicken Kabab Corner
+
+> Local restaurant in Best Colony, Goregaon West (Mumbai, India) serving authentic tandoori and kabab specialties: chicken tikka, seekh kabab, tandoori chicken, fish and prawns tikka, and paneer tikka. Open 5:00 PM – 12:00 AM. Orders are placed online through the website and sent to the restaurant on WhatsApp.
+
+Key facts:
+
+- Location: Best Colony, Goregaon West, Mumbai, Maharashtra, India
+- Timings: 5:00 PM – 12:00 AM
+- Phone: +91 99878 34243, +91 80970 05775
+- WhatsApp orders: +91 99878 34243
+- Cuisine: Indian, tandoori, kebabs
+- Ordering: choose Half or Full portions on the website, add to cart, then send the order on WhatsApp with name, mobile number and address. No online payment; payment and any delivery charges are confirmed on WhatsApp.
+- All prices are in Indian Rupees (₹).
+
+## Website
+
+- [Home](https://www.example.com/): Restaurant overview, menu, online ordering and contact details on a single page
+- [Menu](https://www.example.com/#menu): Full menu with Half and Full prices and the online order cart
+- [About](https://www.example.com/#about): Why choose us: fresh ingredients, authentic flavours, grilled to perfection
+- [Contact](https://www.example.com/#contact): Location, timings, phone numbers, WhatsApp and Google Maps directions
+
+## Menu: Chicken Specialties
+
+Tikka & Kababs:
+
+- Chicken Tikka: Half ₹80, Full ₹140
+- Chicken Pahadi Tikka: Half ₹80, Full ₹140
+- Chicken Afghani Tikka: Half ₹80, Full ₹140
+- Chicken Seekh Kabab: Half ₹80, Full ₹140
+- Chicken Leg: Half ₹120, Full ₹240
+- Chicken Reshmi Tikka: Half ₹80, Full ₹140
+- Chicken Garlic Tikka: Half ₹80, Full ₹140
+- Chicken Tikka Peri Peri: Half ₹80, Full ₹140
+
+Tandoori Chicken:
+
+- Chicken Pahadi Tandoori: Half ₹170, Full ₹340
+- Chicken Regular Tandoori: Half ₹170, Full ₹340
+- Chicken Afghani Tandoori: Half ₹170, Full ₹340
+
+## Menu: Fish & Prawns
+
+- Fish Tikka: Half ₹150, Full ₹240
+- Prawns Tikka: Half ₹150, Full ₹240
+
+## Menu: Vegetarian
+
+- Vege Paneer Tikka: Half ₹90, Full ₹180
+- Vege Paneer Pahadi Tikka: Half ₹90, Full ₹180
+- Vege Afghani Paneer Tikka: Half ₹90, Full ₹180
+
+## Optional
+
+- [Sitemap](https://www.example.com/sitemap.xml): XML sitemap
